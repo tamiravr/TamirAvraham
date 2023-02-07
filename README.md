@@ -25,6 +25,6 @@
 </p>
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/barshaya" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/barshaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tamiravraham/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/barshaya" height="30" width="40" /></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
